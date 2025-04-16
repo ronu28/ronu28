@@ -11,3 +11,10 @@
 - 📊 Enthusiastic about UI/UX design, always focused on creating intuitive and user-friendly interfaces
 - 🗂️ GitHub enthusiast – I love sharing and collaborating on projects.
 - 🎓 B.Tech in Information Technology
+
+## 🛠️ Skills & Tools
+- **Front-End:** HTML5, CSS3, JavaScript, Bootstrap, React.js, Vue.js
+- **Back-End:** PHP, Node.js, MySQL, MongoDB
+- **Mobile Development:** Flutter, React Native
+- **Version Control:** Git, GitHub
+- **Others:** Firebase, REST APIs, AJAX, JSON, VS Code, Postman
