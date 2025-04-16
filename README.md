@@ -34,7 +34,8 @@
 
 ## 🤝 Let’s Connect!
 - **GitHub:** https://github.com/ronu28
+- **Website:** https://ronakk.netlify.app/
 - **LinkedIn:** https://www.linkedin.com/in/ronak-thakor-98aa5a2b6/
-- **Website link:** https://ronakk.netlify.app/
+
 
 #### Open to collaborations, freelance projects, or full-time opportunities in web or mobile development!
