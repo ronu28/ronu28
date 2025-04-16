@@ -33,7 +33,7 @@
 - DevOps basics (CI/CD, Docker)
 
 ## 🤝 Let’s Connect!
-- GitHub: [Your GitHub Profile Link]
-- LinkedIn: [Your LinkedIn Profile Link]
+- GitHub: https://github.com/ronu28
+- LinkedIn: https://www.linkedin.com/in/ronak-thakor-98aa5a2b6/
 
 #### Open to collaborations, freelance projects, or full-time opportunities in web or mobile development!
