@@ -35,4 +35,5 @@
 ## 🤝 Let’s Connect!
 - GitHub: [Your GitHub Profile Link]
 - LinkedIn: [Your LinkedIn Profile Link]
-Open to collaborations, freelance projects, or full-time opportunities in web or mobile development!
+
+#### Open to collaborations, freelance projects, or full-time opportunities in web or mobile development!
