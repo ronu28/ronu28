@@ -22,9 +22,9 @@
 
 
 ## 🔥 Projects & Highlights
-- Home Services & Construction Material Platform: An e-commerce website to book services and buy materials online (HTML, CSS, JS, PHP, MySQL)
-- Task Manager App: A cross-platform mobile app to manage daily tasks and notifications (Flutter)
-- Portfolio Website: Fully responsive personal portfolio site to showcase my projects and contact info
+- **Home Services & Construction Material Platform:** An e-commerce website to book services and buy materials online (HTML, CSS, JS, PHP, MySQL)
+- **Task Manager App:** A cross-platform mobile app to manage daily tasks and notifications (Flutter)
+- **Portfolio Website:** Fully responsive personal portfolio site to showcase my projects and contact info
 
 
 ## 🌱 Currently Learning
