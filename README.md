@@ -5,7 +5,7 @@
 
 
 ## 💡 About Me
-#### 🌐 I specialize in creating responsive, dynamic websites using HTML, CSS, JavaScript, Bootstrap, and PHP
+<p>  🌐 I specialize in creating responsive, dynamic websites using HTML, CSS, JavaScript, Bootstrap, and PHP </p>
 #### 📱 I design and develop mobile apps using Flutter and React Native, ensuring smooth performance on both Android and iOS
 #### 🎓 I hold a B.Tech degree in Information Technology, giving me a strong foundation in programming and software development
 #### 🔗 I actively contribute to and showcase my work on GitHub
