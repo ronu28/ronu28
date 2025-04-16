@@ -5,9 +5,9 @@
 
 
 ## About Me
-🔧 Skilled in front-end technologies like HTML, CSS, JavaScript, Bootstrap, and modern libraries/frameworks like React and Vue
-🛠️ Experienced in back-end development using PHP, Node.js, and MySQL, ensuring scalable and secure applications
-📱 Developed mobile apps using Flutter and React Native, delivering smooth cross-platform experiences
-📊 Enthusiastic about UI/UX design, always focused on creating intuitive and user-friendly interfaces
-🗂️ GitHub enthusiast – I love sharing and collaborating on projects.
-🎓 B.Tech in Information Technology
+- 🔧 Skilled in front-end technologies like HTML, CSS, JavaScript, Bootstrap, and modern libraries/frameworks like React and Vue
+- 🛠️ Experienced in back-end development using PHP, Node.js, and MySQL, ensuring scalable and secure applications
+- 📱 Developed mobile apps using Flutter and React Native, delivering smooth cross-platform experiences
+- 📊 Enthusiastic about UI/UX design, always focused on creating intuitive and user-friendly interfaces
+- 🗂️ GitHub enthusiast – I love sharing and collaborating on projects.
+- 🎓 B.Tech in Information Technology
