@@ -33,8 +33,8 @@
 - DevOps basics (CI/CD, Docker)
 
 ## 🤝 Let’s Connect!
-- **GitHub:** https://github.com/ronu28
 - **Website:** https://ronakk.netlify.app/
+- **GitHub:** https://github.com/ronu28
 - **LinkedIn:** https://www.linkedin.com/in/ronak-thakor-98aa5a2b6/
 
 
