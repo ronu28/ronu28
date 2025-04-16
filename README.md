@@ -20,7 +20,19 @@
 - **Version Control:** Git, GitHub
 - **Others:** Firebase, REST APIs, AJAX, JSON, VS Code, Postman
 
+
 ## 🔥 Projects & Highlights
 - Home Services & Construction Material Platform: An e-commerce website to book services and buy materials online (HTML, CSS, JS, PHP, MySQL)
 - Task Manager App: A cross-platform mobile app to manage daily tasks and notifications (Flutter)
 - Portfolio Website: Fully responsive personal portfolio site to showcase my projects and contact info
+
+
+## 🌱 Currently Learning
+- Advanced React.js (hooks, context API, Redux)
+- Backend development with Express.js and MongoDB
+- DevOps basics (CI/CD, Docker)
+
+## 🤝 Let’s Connect!
+- GitHub: [Your GitHub Profile Link]
+- LinkedIn: [Your LinkedIn Profile Link]
+Open to collaborations, freelance projects, or full-time opportunities in web or mobile development!
