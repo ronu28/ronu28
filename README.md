@@ -12,9 +12,15 @@
 - 🗂️ GitHub enthusiast – I love sharing and collaborating on projects.
 - 🎓 B.Tech in Information Technology
 
+
 ## 🛠️ Skills & Tools
 - **Front-End:** HTML5, CSS3, JavaScript, Bootstrap, React.js, Vue.js
 - **Back-End:** PHP, Node.js, MySQL, MongoDB
 - **Mobile Development:** Flutter, React Native
 - **Version Control:** Git, GitHub
 - **Others:** Firebase, REST APIs, AJAX, JSON, VS Code, Postman
+
+## 🔥 Projects & Highlights
+- Home Services & Construction Material Platform: An e-commerce website to book services and buy materials online (HTML, CSS, JS, PHP, MySQL)
+- Task Manager App: A cross-platform mobile app to manage daily tasks and notifications (Flutter)
+- Portfolio Website: Fully responsive personal portfolio site to showcase my projects and contact info
